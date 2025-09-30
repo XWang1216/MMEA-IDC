@@ -1,14 +1,13 @@
 # MMEA-IDC
-% [Paper Link](https://ieeexplore.ieee.org/abstract/document/10605095)
 
 This MATLAB code is written by the [PlatEMO](https://github.com/BIMK/PlatEMO) framework 4.2.
 
 MMEA-IDC proposes a new perpective in solving ***sparse multi-modal multi-objective*** optimization problems by introducing a large main population for convergence and a small complementary population for diversity, which makes it achieve good performance effectively.
 
-This code is from the paper 'A Size-Imbalanced Dual Population with Complementary Search for Sparse Large-Scale Multi-Modal Multi-Objective Optimization', published in 'IEEE Transactions on Evolutionary Computation'
+This code is from the paper 'A Size-Imbalanced Dual Population with Complementary Search for Sparse Large-Scale Multi-Modal Multi-Objective Optimization', just accepted in 'IEEE Transactions on Evolutionary Computation'
 
 ## General framework
-<img src="fra_r1.png" alt="Project Framework" width="300" />
+<img src="fra_r1.png" alt="Project Framework" width="600" />
 
 ## Matlab Version
 
